@@ -1,0 +1,16 @@
+C:\Users\Alex Cruz\source\repos\NBA Awards\NBA Awards\obj\Debug\net5.0\NBA Awards.csproj.AssemblyReference.cache
+C:\Users\Alex Cruz\source\repos\NBA Awards\NBA Awards\obj\Debug\net5.0\NBA Awards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Cruz\source\repos\NBA Awards\NBA Awards\obj\Debug\net5.0\NBA Awards.AssemblyInfoInputs.cache
+C:\Users\Alex Cruz\source\repos\NBA Awards\NBA Awards\obj\Debug\net5.0\NBA Awards.AssemblyInfo.cs
+C:\Users\Alex Cruz\source\repos\NBA Awards\NBA Awards\obj\Debug\net5.0\NBA Awards.csproj.CoreCompileInputs.cache
+C:\Users\Alex Cruz\source\repos\NBA Awards\NBA Awards\bin\Debug\net5.0\NBA Awards.exe
+C:\Users\Alex Cruz\source\repos\NBA Awards\NBA Awards\bin\Debug\net5.0\NBA Awards.deps.json
+C:\Users\Alex Cruz\source\repos\NBA Awards\NBA Awards\bin\Debug\net5.0\NBA Awards.runtimeconfig.json
+C:\Users\Alex Cruz\source\repos\NBA Awards\NBA Awards\bin\Debug\net5.0\NBA Awards.runtimeconfig.dev.json
+C:\Users\Alex Cruz\source\repos\NBA Awards\NBA Awards\bin\Debug\net5.0\NBA Awards.dll
+C:\Users\Alex Cruz\source\repos\NBA Awards\NBA Awards\bin\Debug\net5.0\ref\NBA Awards.dll
+C:\Users\Alex Cruz\source\repos\NBA Awards\NBA Awards\bin\Debug\net5.0\NBA Awards.pdb
+C:\Users\Alex Cruz\source\repos\NBA Awards\NBA Awards\obj\Debug\net5.0\NBA Awards.dll
+C:\Users\Alex Cruz\source\repos\NBA Awards\NBA Awards\obj\Debug\net5.0\ref\NBA Awards.dll
+C:\Users\Alex Cruz\source\repos\NBA Awards\NBA Awards\obj\Debug\net5.0\NBA Awards.pdb
+C:\Users\Alex Cruz\source\repos\NBA Awards\NBA Awards\obj\Debug\net5.0\NBA Awards.genruntimeconfig.cache
